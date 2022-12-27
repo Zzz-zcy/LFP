@@ -1,4 +1,2 @@
 # LFP
-Model compression
-Neural network pruning
-Frequency domain
+Model compression/ Neural network pruning/ Frequency domain
